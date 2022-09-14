@@ -9,9 +9,7 @@ Pero MI MOTIVACIÓN PRINCIPAL ES Como dice Linus Torvalds el creado del S.O. Lin
 ___
 # **Importante.....
 ---
-Aqui les traigo un sencillo ejemplo de ApiRest creada en NodeJs usando el framework Express. En este ejemplo desarrolle ApiRest usando NodeJs el primer ejemplo   
-alimente la apirest de un json y en el segundo ejemplo si tome los datos de una api externa. Despues que clones el repositorio vas a correr en tú terminal  
-"npm run dev". Esto es solo la parte del Backend los cuales estan para que cliente los consuma.
+Aqui les traigo un sencillo ejemplo de ApiRest creada en NodeJs usando el framework Express. En este ejemplo desarrolle ApiRest usando NodeJs el primer ejemplo alimente la apirest de un json y en el segundo ejemplo si tome los datos de una api externa. Despues que clones el repositorio vas a correr en tú terminal "npm run dev". Esto es solo la parte del Backend los cuales estan para que cliente los consuma.
 ___
 ___
 ## **Programas y Dependencias Usados en el ejemplo:**
