@@ -1,0 +1,21 @@
+{
+    "name": "apirest",
+    "version": "1.0.0",
+    "description": "Dos ejemplos practicos para presentar datos: 1) lo hago con un json, 2) tomo datos de una apirest externa",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon src/index.js"
+    },
+    "keywords": [],
+    "author": "Eliezer Polidor",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.1",
+        "morgan": "^1.10.0",
+        "node-fetch": "^2.6.7",
+        "underscore": "^1.13.4"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.19"
+    }
+}
